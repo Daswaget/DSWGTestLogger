@@ -1,5 +1,4 @@
-<div align="center">
-<h1>EkosyzEng</h1>
+# EkosyzEng
 
 ![Status](https://img.shields.io/badge/status-beta-orange)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/MIT)
@@ -7,7 +6,6 @@
 **EkosyzEng** is a modular, cross-platform multimedia engine for developing games and graphical applications using the **C#** programming language.
 
 The engine is designed to provide a simple entry point while remaining scalable and maintaining a controlled level of architectural complexity as projects grow. It is built on top of **MonoGame** and uses **Arch-PureECS** as its architectural foundation.
-</div>
 
 ## Ecosystem
 
