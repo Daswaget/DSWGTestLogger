@@ -9,7 +9,6 @@
 
 [Getting started](#getting-started) •
 [Ecosystem](#ecosystem) •
-[Supported Platforms](#supported-platforms) •
 [License](#license)
 
 ## Overview
@@ -43,21 +42,6 @@ The project is currently in **beta testing**. This means:
 - Core functionality is implemented and usable.
 - Bugs may still be present despite testing before releases. If you encounter any issues, please report them.
 - The API and module architecture may change in future versions without strict backward compatibility guarantees.
-
-## Supported Platforms
-
-- **Desktop PCs**
-  - Windows 8.1 and up
-  - Linux
-  - macOS 10.15 and up
-- **Mobile/Tablet Devices**
-  - Android 6.0 and up
-  - iPhone/iPad 10.0 and up
-- **Consoles** (for registered developers)
-  - PlayStation 4
-  - PlayStation 5
-  - Xbox One
-  - Nintendo Switch
   
 ## License
   
