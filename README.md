@@ -1,16 +1,18 @@
-![EkosyzEng](https://raw.githubusercontent.com/Daswaget/<div align="center">
-<img height="128" alt="MonoGame" src="https://raw.githubusercontent.com/Daswaget/EkosyzEng.Core/refs/heads/master/Images/Icon128.png">
-<h1>EkosyzEng</h1>
+<div align="center">
+ <a href="https://github.com/Daswaget/EkosyzEng.Core">
+   <img height="128" alt="EkosyzEng" src="https://raw.githubusercontent.com/Daswaget/EkosyzEng.Core/refs/heads/master/Images/Icon128.png">
+ </a>
+ <h1>EkosyzEng</h1>
 
  [![Status](https://img.shields.io/badge/status-beta-orange)](#development-status-(beta))
  [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/MIT)
-</div>
 
 [Ecosystem](#ecosystem) •
 [Getting started](#getting-started) •
 [Supported Platforms](#supported-platforms) •
 [Source Code](#source-code) •
 [License](#license)
+</div>
 
 ## Overview
 
