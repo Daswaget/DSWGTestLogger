@@ -12,12 +12,12 @@
     <Copyright>© 2026 DSWG Infinitum. All rights reserved.</Copyright>
     <PackageProjectUrl>https://github.com/Daswaget/DSWGTestLogger</PackageProjectUrl>
     <PackageIcon>DSWGTestLoggerIcon.png</PackageIcon>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReadmeFile>README-packages.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/Daswaget/DSWGTestLogger</RepositoryUrl>
     <PackageTags>log;logger;daswaget;dswg;infinitum;</PackageTags>
     <PackageReleaseNotes>Update 1.0.1</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
