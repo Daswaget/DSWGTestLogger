@@ -4,13 +4,14 @@
  </a>
  <h1>EkosyzEng</h1>
 
- [![Status](https://img.shields.io/badge/status-beta-orange)](#development-status-(beta))
- [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/MIT)
+ [![Nuget](https://img.shields.io/nuget/v/EkosyzEng.Core?style=for-the-badge)](https://www.nuget.org/packages/EkosyzEng.Core)
+ [![Status](https://img.shields.io/badge/status-beta-orange?style=for-the-badge)](#development-status-beta)
+ [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://opensource.org/license/MIT)
+ [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
 
-[Ecosystem](#ecosystem) •
 [Getting started](#getting-started) •
+[Ecosystem](#ecosystem) •
 [Supported Platforms](#supported-platforms) •
-[Source Code](#source-code) •
 [License](#license)
 </div>
 
@@ -28,7 +29,7 @@ Code is distributed as NuGet packages in the form of libraries (.dll files). You
 dotnet add package EkosyzEng.Core --version 0.1.0
 ```
 
-[NuGet page](https://www.nuget.org/packages/EkosyzEng.Core)
+[View package on NuGet.org](https://www.nuget.org/packages/EkosyzEng.Core)
 
 ## Ecosystem
 
