@@ -9,7 +9,7 @@
  [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://opensource.org/license/MIT)
  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
  
- <p><b>EkosyzEng.Core</b> is the central component of EkosyzEng, providing the foundation for all other functionality.</p>
+ <p><b>EkosyzEng.Core</b> is the central, minimal component of the engine, providing the foundation for all other functionality.</p>
 </div>
 
 ## Getting Started
